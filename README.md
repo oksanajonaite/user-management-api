@@ -133,4 +133,4 @@ curl -u admin:demo http://localhost:8080/api/admin/audit
 
 ## Related
 
-This API has a companion [Angular frontend](https://github.com/oksanajonaite/security-frontend) with login, registration, user list, and audit log views.
+This API has a companion [Angular frontend](https://github.com/oksanajonaite/user-management-frontend) with login, registration, user list, and audit log views.
