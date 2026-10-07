@@ -41,7 +41,7 @@ A Spring Boot REST API demonstrating role-based access control, audit logging, r
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/user-security-api.git
+git clone https://github.com/oksanajonaite/user-security-api.git
 cd user-security-api
 ```
 
@@ -133,4 +133,4 @@ curl -u admin:demo http://localhost:8080/api/admin/audit
 
 ## Related
 
-This API has a companion [Angular frontend](https://github.com/YOUR_USERNAME/security-frontend) with login, registration, user list, and audit log views.
+This API has a companion [Angular frontend](https://github.com/oksanajonaite/security-frontend) with login, registration, user list, and audit log views.
